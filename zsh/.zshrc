@@ -108,3 +108,6 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
+alias notas='NVIM_WRITER=1 nvim ~/Documentos/notas'
+alias ntest='NVIM_APPNAME=nvim-test nvim'
+alias upgrade="sudo apt update && sudo apt upgrade -y"

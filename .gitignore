@@ -1,0 +1,6 @@
+# Pastas pesadas ou de sistema
+.cargo/
+.cache/
+.local/
+*.swp
+.DS_Store
